@@ -1,3 +1,24 @@
+<!DOCTYPE html>
+<!--
+	NOTES:
+	1. All tokens are represented by '$' sign in the template.
+	2. You can write your code only wherever mentioned.
+	3. All occurrences of existing tokens will be replaced by their appropriate values.
+	4. Blank lines will be removed automatically.
+	5. Remove unnecessary comments before creating your template.
+-->
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="authoring-tool" content="Adobe_Animate_CC">
+
+<link rel="prerender" as="image" href="images/*">
+<link rel="prerender" as="video"href="videos/Demo Reel.mp4">
+
+
+<title>index</title>
+
+
 <div id="container">
   <input type="checkbox" id="water"/>
   <label for="water">
@@ -6,6 +27,8 @@
   <span>Progress</span>
   <span id="progress">0%</span>
 </div>
+
+
 
 <style>
 
@@ -88,6 +111,7 @@ span {
 
 <script>
 
+
 window.onload = function(){
   var elm = document.querySelector('#progress');
   setInterval(function(){
@@ -97,15 +121,17 @@ window.onload = function(){
       clearInterval();
     }
   }, 18)
+
+if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+				//do your stuff here
+				window.open('mobile/index.html', '_self');
+			} else {
+				window.open('start_menu.html', '_self');
+			}
+
 }
 
-    window.onload = function() {
-        if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
-        //do your stuff here window.open('mobile/index.html', '_self');
-    }
-
-    else {
-        window .open('start_menu.html', '_self');
-    }}
     
+ 
+   
 </script>
