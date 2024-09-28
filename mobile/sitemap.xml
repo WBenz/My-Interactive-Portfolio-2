@@ -1,143 +1,309 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/index.html</loc>
-    <lastmod>2024-09-28</lastmod>
+    <loc>http://wbenz.com/index.html</loc>
+    <lastmod>2023-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/phone/index.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/tablet/index.html"/>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/260126719_4591368507565902_8176314823816956286_n.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/testimonials.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/260460388_4591372864232133_8535342031235391954_n.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/checkbox.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/260966458_4591372910898795_1286438476322250915_n.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/acuaporbg.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/261140030_4591370897565663_6744789315203701825_n.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/macbethbg.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re1%20fan%20remake%2002-crop-u2637.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/webofly_bg.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re2%20leon%20clair-crop-u2790.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/_1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re2%20leon%20claire%20combo-crop-u2810.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/_2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3%20art%20work%202-crop-u2830.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/_4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3%20artwork%202-crop-u2850.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/_5.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3%20artwork%20clock%20tower-crop-u2870.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/_6.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3%20artwork%20earthworm-crop-u2890.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/_7.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3%20artwork%20rpd-crop-u2910.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/_8.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3-crop-u2930.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/acuaporpantslabel.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re5%20art%20work-crop-u2950.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/acuaporpulle.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re1%20fan%20remake%2002-crop-u2653.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/acuaporshirtlabel.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re2%20leon%20clair-crop-u2796.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/acuaporshirtlogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re2%20leon%20claire%20combo-crop-u2816.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/acuaporshirtp1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3%20art%20work%202-crop-u2836.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/acuaporshirtp2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3%20artwork%202-crop-u2856.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/acuaportop.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3%20artwork%20clock%20tower-crop-u2876.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/astrolabe02.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3%20artwork%20earthworm-crop-u2896.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/astrolabe03.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3%20artwork%20rpd-crop-u2916.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/astrolabe04.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3-crop-u2936.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/astrolabe05.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re5%20art%20work-crop-u2956.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/astrolabe06.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re1%20fan%20remake%2002549x309.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/astrolabelogo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re2%20leon%20clair622x309.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/affichemandella.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re2%20leon%20claire%20combo-crop-u28102.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/badgetipitumhorizontal.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3%20art%20work%202644x309.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/tapetumbg.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3%20artwork%202549x309.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/tapitumaffiche.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3%20artwork%20clock%20tower617x309.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/tapitumaffichemonalisa.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3%20artwork%20earthworm617x309.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/cartevisitefreeshprod.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3%20artwork%20rpd617x309.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/cataloguemimorectofinal2copie.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3549x309.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/cataloguemimorectofinal3copie.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re5%20art%20work-crop-u29502.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/cataloguemimoversofinal2copie.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re1%20fan%20remake%2002-crop-u26532.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/damesoussoldvdcover2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re2%20leon%20clair-crop-u27962.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/dvdcouverture2copie.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re2%20leon%20claire%20combo-crop-u28162.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/freeshbg.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3%20art%20work%202-crop-u28362.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/freeshbrochure1-crop-u11927.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3%20artwork%202-crop-u28562.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/freeshbrochure3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3%20artwork%20clock%20tower-crop-u28762.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/freeshprodcartevisite2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3%20artwork%20earthworm-crop-u28962.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/freeshprodhat2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3%20artwork%20rpd-crop-u29162.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/freeshprodhat3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re3-crop-u29362.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/freeshprodpapiterie.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://wbenz.github.io/My-Interactive-Portfolio-2/start_menu.html/images/re5%20art%20work-crop-u29562.jpg</image:loc>
+      <image:loc>http://wbenz.com/images/image.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/image_1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/image_2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/postebg.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/astrolabe01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/pnudmagazinecouverture-crop-u12753.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/japanexpoflyer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/japanexpoflyerinsidejpgcopy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/japanexpoinvitation.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/pr%C3%A9position5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/pr%C3%A9position7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/pr%C3%A9position8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/pr%C3%A9position17.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/pr%C3%A9position18japonais.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/macbethaffiche2copie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/macbethaffichecopie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/macbethbilletcopie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/macbethinvitationcopie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/insertionpresstvmixcopie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/tvmixafficheverticalcopie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/tvmixcartevisitecopie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/tvmixcouverturecopie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/tvmixcouvetpage1copie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/tvmixcuplogocopie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/tvmixinsertionpresscopie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/tvmixlogoincrustationwallcopie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/tvmixlogopagecopie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/tvmixnewpapercopie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/tvmixoutdooraffichecopie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/tvmixpullecopie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/weboflyaffiche02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/weboflybrochurecouv.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/weboflybrochurecouvback.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/weboflybrochureinside.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/weboflyflyera5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/tibabio01copie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/tibabio02copie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/tibabio03copie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/tibabio04copie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/tibabio05copie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/tibabio06copie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/tibabio07copie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/tibabio08copie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/president06copie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/president07copie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/president08copie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/weboflyaffiche022.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/resicover07.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/resicover07copie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/resicover07copie5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/resicover08.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/resicover011.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/resicover022.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/resicover033.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/resicover066.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/macbethaffiche-crop-u16155.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://wbenz.com/images/heart_icon.png</image:loc>
     </image:image>
   </url>
 </urlset>
